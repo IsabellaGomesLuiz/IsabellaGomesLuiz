@@ -1,0 +1,229 @@
+body{
+  background-color: black;
+}
+#divpr{
+  /*Tive problemas com essa div envolvendo todo o conteúdo, mas que não funciona por algum motivo que eu não consegui identificar*/
+  width: 600px;
+  margin: 0 auto;
+  background-color: black;
+}
+#header {
+  position: absolute;
+  width: 600px;
+  height: 163px;
+  left: 0px;
+  top: 0px;
+
+  background: url(header.jpg);
+}
+#t1 {
+  position: absolute;
+  width: 439px;
+  height: 68px;
+  left: 60px;
+  top: 163px;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  color: #00a857;
+}
+#t2 {
+  position: absolute;
+  width: 89px;
+  height: 23px;
+  left: 60px;
+  top: 291px;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+  color: #ffffff;
+}
+#t3 {
+  position: absolute;
+  width: 453px;
+  height: 71px;
+  left: 60px;
+  top: 374px;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  color: #ffffff;
+}
+.icones {
+  position: absolute;
+  width: 56px;
+  height: 56px;
+  left: 60px;
+  top: 505px;
+}
+#icone2 {
+  top: 581px;
+}
+#icone3 {
+  top: 657px;
+}
+#icone4 {
+  top: 733px;
+}
+#a {
+  position: absolute;
+  width: 317px;
+  height: 23px;
+  left: 146px;
+  top: 510px;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+  color: #ffffff;
+}
+#b {
+  position: absolute;
+  width: 367px;
+  height: 46px;
+  left: 146px;
+  top: 572px;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+  color: #ffffff;
+}
+#c {
+  position: absolute;
+  width: 383px;
+  height: 46px;
+  left: 146px;
+  top: 650px;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+  color: #ffffff;
+}
+#d {
+  position: absolute;
+  width: 383px;
+  height: 46px;
+  left: 146px;
+  top: 725px;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+  color: #ffffff;
+}
+#top {
+  position: absolute;
+  width: 600px;
+  height: 131px;
+  left: 0px;
+  top: 844px;
+}
+#gif {
+  position: absolute;
+  width: 600px;
+  height: 576px;
+  left: 0px;
+  top: 975px;
+}
+#completo {
+  position: absolute;
+  width: 600px;
+  height: 272px;
+  left: 0px;
+  top: 1551px;
+}
+#footer {
+  position: absolute;
+  width: 540px;
+  height: 96.72px;
+  left: 30px;
+  top: 1853px;
+}
+#retangulo {
+  position: absolute;
+  width: 600px;
+  height: 612px;
+  left: 0px;
+  top: 1824px;
+
+  background: #ffffff;
+}
+#t5 {
+  position: absolute;
+  width: 185px;
+  height: 40px;
+  left: 63px;
+  top: 1980px;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #00a857;
+}
+.redes {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 1983px;
+}
+#twt {
+  left: 368px;
+}
+#faceb {
+  left: 403px;
+}
+#insta {
+  left: 438px;
+}
+#in {
+  left: 473px;
+}
+#ytb {
+  left: 508px;
+}
+#retangulo2 {
+  position: absolute;
+  width: 540px;
+  height: 296px;
+  left: 30px;
+  top: 2050px;
+
+  background: #f6f6f6;
+  border-radius: 10px;
+}
+#t6 {
+  position: absolute;
+  width: 474px;
+  height: 242px;
+  left: 63px;
+  top: 2078px;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 20px;
+
+  color: #4a4b4a;
+}
